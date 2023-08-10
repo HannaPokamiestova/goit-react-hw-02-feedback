@@ -12,7 +12,7 @@ export const ButtonOption = styled.button`
   height: 40px;
   width: 150px;
   padding: 8px;
-  background-color: orange;
+  background-color: #008000e6;
   border-radius: 4px;
   border: 2px solid #fff;
   color: #fff;
@@ -28,6 +28,6 @@ export const ButtonOption = styled.button`
   :focus {
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     background-color: #fff;
-    color: orange;
+    color: #008000e6;
   }
 `;

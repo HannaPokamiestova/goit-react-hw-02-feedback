@@ -13,7 +13,7 @@ export const StatisticsItem = styled.li`
   align-items: center;
   justify-content: space-between;
   gap: 16px;
-  border-bottom: 2px solid orange;
+  border-bottom: 2px solid #008000e6;
   font-weight: 500;
   font-size: 28px;
   line-height: 1.33;
